@@ -1,0 +1,4 @@
+.main-menu-container: 
+  display: inline-flex;
+  flex-wrap: wrap;
+}
