@@ -1,5 +1,9 @@
-.main-menu-container: 
+.main-menu-container{
   display: inline-flex;
   flex-wrap: wrap;
   background-color: green;
+}
+
+.main-menu-item{
+  background-color: red;
 }
